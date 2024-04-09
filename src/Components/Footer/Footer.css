@@ -1,0 +1,63 @@
+
+.footer {
+    font-size: 42px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+
+    padding: 40px 80px 20px;
+
+
+   
+    height: fit-content;
+
+    background: #6B3CC9;
+    columns: 3 auto;
+
+
+
+
+}
+
+.footer-top {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 10px
+}
+
+.footer-logo {
+    display: flex;
+    align-items: start;
+    gap: 20px;
+
+}
+
+.footer-col {
+    padding: 10px;
+}
+
+.footer-col h4 {}
+
+.hr {
+    color:white;
+    height: 5px;
+    width: max-content;
+    
+}
+
+.footer-bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+
+.agreement {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    list-style: none;
+    justify-content: center;
+    align-items:center ;
+}

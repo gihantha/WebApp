@@ -9,7 +9,7 @@ const Hero = () => {
   return (
     <div className="hero">
       <div className="hero-banner">
-        <img src={hero_image} alt="hero_image" />
+        <img className= 'hero-banner-img'src={hero_image} alt="hero_image" />
         
       </div>
       <div className="hero-left">
@@ -32,7 +32,7 @@ const Hero = () => {
           </button>
           
         </div>
-        <img src={hero_right} alt="hero_right" />
+        <img className="hero-image" src={hero_right} alt="hero_right" />
       </div>
     </div>
   );

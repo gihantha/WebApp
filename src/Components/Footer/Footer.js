@@ -11,11 +11,13 @@ const Footer = () => {
           <div className="footer-logo">
             <img src={logo} alt="footer-logo" />
           </div>
+          <div className="motto">
           <p>
             Your goal is our target. Not anything in between. We use online
             marketing platforms and tools to achieve single objective - your
             business results.
           </p>
+          </div>
         </div>
         <div className="footer-col">
           <h4>Our Technologies</h4>
@@ -36,7 +38,8 @@ const Footer = () => {
       
       <div className="footer-bottom">
         <ul className="agreement">
-          <li>Privacy Policy</li>
+          <li>Privacy Policy </li>
+          <li>|</li>
           <li>Terms and Conditions</li>
         </ul>
       </div>

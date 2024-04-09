@@ -1,0 +1,23 @@
+.FAQ{
+    
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 28px;
+
+border-style:dashed;
+border-radius: 15px;
+border: 20px 20px 20px 20px;
+margin-left: 10%;
+margin-right: 10%;
+margin-top:5%;
+margin-bottom: 5%;
+
+font-size: 40px;
+}
+
+
+.question{
+    color: #6B3CC9;;
+}

@@ -1,0 +1,33 @@
+.hero-banner {
+
+    width: fit-content;
+    /* max-height: 120px;    */
+
+}
+
+.hero-left {
+    display: flex;
+    flex-direction: row;
+    font-size: 35px;
+}
+
+.hero-right {
+    display: flex;
+    flex-direction: row;
+    font-size: 35px;
+
+}
+
+h3 {
+    color: #6B3CC9;
+    
+}
+
+.hero-btn {
+    background-color: #F28D35;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

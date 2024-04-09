@@ -1,0 +1,42 @@
+/* Top Navigation */
+
+/* Auto layout */
+
+.navbar{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 26px 80px;
+gap: 8px;
+
+/* position: absolute;
+/* width: 1440px; */
+/* width: 3450px;
+height: 77px;
+left: 77px;
+top: 215px; */ 
+
+background: #6B3CC9;
+
+}
+
+.nav-logo{
+    
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.nav-menu{
+
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 50px;
+    color: white;
+    font-size: 40px;
+    font-weight: 500;
+    font-variant-caps: all-petite-caps;
+
+}

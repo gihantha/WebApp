@@ -6,7 +6,8 @@ Simple web application developed with React.
 ### Navbar and Hero Banner
 
 
-![Navbar_and_Herobanner]()
+![Navbar_and_Herobanner](https://github.com/gihantha/WebApp/assets/42207039/b0e80342-7da3-4bb6-8b87-b0f76f545a08)
+
 
 ### Hero_Description
 
